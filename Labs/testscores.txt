@@ -1,0 +1,19 @@
+Alice  98
+
+Bob  87
+
+Charlie  78
+
+David  63
+
+Elija  77
+
+Frank  89
+
+Gabe  92
+
+Harris  98
+
+Ilia  83
+
+Jeff  56
